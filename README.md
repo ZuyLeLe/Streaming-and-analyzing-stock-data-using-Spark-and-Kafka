@@ -15,6 +15,4 @@ bin\windows\zookeeper-server-start config\zookeeper.properties
 ```
 bin\windows\kafka-server-start config\server.properties
 ```
-Lastly, cd to the repo clone and run ```
-pip install requirements.txt
-```
+Lastly, cd to the repo clone and run `pip install requirements.txt` to install the required packages.
